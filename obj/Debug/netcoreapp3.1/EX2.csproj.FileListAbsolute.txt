@@ -1,0 +1,52 @@
+D:\Users\emlapa\Desktop\Codigos\EX2\bin\Debug\netcoreapp3.1\EX2.exe
+D:\Users\emlapa\Desktop\Codigos\EX2\bin\Debug\netcoreapp3.1\EX2.deps.json
+D:\Users\emlapa\Desktop\Codigos\EX2\bin\Debug\netcoreapp3.1\EX2.runtimeconfig.json
+D:\Users\emlapa\Desktop\Codigos\EX2\bin\Debug\netcoreapp3.1\EX2.runtimeconfig.dev.json
+D:\Users\emlapa\Desktop\Codigos\EX2\bin\Debug\netcoreapp3.1\EX2.dll
+D:\Users\emlapa\Desktop\Codigos\EX2\bin\Debug\netcoreapp3.1\EX2.pdb
+D:\Users\emlapa\Desktop\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.csprojAssemblyReference.cache
+D:\Users\emlapa\Desktop\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.AssemblyInfoInputs.cache
+D:\Users\emlapa\Desktop\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.AssemblyInfo.cs
+D:\Users\emlapa\Desktop\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.csproj.CoreCompileInputs.cache
+D:\Users\emlapa\Desktop\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.dll
+D:\Users\emlapa\Desktop\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.pdb
+D:\Users\emlapa\Desktop\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.genruntimeconfig.cache
+D:\Codigos\Codigos\EX2\bin\Debug\netcoreapp3.1\EX2.exe
+D:\Codigos\Codigos\EX2\bin\Debug\netcoreapp3.1\EX2.deps.json
+D:\Codigos\Codigos\EX2\bin\Debug\netcoreapp3.1\EX2.runtimeconfig.json
+D:\Codigos\Codigos\EX2\bin\Debug\netcoreapp3.1\EX2.runtimeconfig.dev.json
+D:\Codigos\Codigos\EX2\bin\Debug\netcoreapp3.1\EX2.dll
+D:\Codigos\Codigos\EX2\bin\Debug\netcoreapp3.1\EX2.pdb
+D:\Codigos\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.csprojAssemblyReference.cache
+D:\Codigos\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.AssemblyInfoInputs.cache
+D:\Codigos\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.AssemblyInfo.cs
+D:\Codigos\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.csproj.CoreCompileInputs.cache
+D:\Codigos\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.dll
+D:\Codigos\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.pdb
+D:\Codigos\Codigos\EX2\obj\Debug\netcoreapp3.1\EX2.genruntimeconfig.cache
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\bin\Debug\netcoreapp3.1\EX2.exe
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\bin\Debug\netcoreapp3.1\EX2.deps.json
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\bin\Debug\netcoreapp3.1\EX2.runtimeconfig.json
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\bin\Debug\netcoreapp3.1\EX2.runtimeconfig.dev.json
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\bin\Debug\netcoreapp3.1\EX2.dll
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\bin\Debug\netcoreapp3.1\EX2.pdb
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\obj\Debug\netcoreapp3.1\EX2.csprojAssemblyReference.cache
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\obj\Debug\netcoreapp3.1\EX2.AssemblyInfoInputs.cache
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\obj\Debug\netcoreapp3.1\EX2.AssemblyInfo.cs
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\obj\Debug\netcoreapp3.1\EX2.csproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\obj\Debug\netcoreapp3.1\EX2.dll
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\obj\Debug\netcoreapp3.1\EX2.pdb
+C:\Users\emers\OneDrive\UDEMY\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Seção 9 - Enumerações e composição\EX1\obj\Debug\netcoreapp3.1\EX2.genruntimeconfig.cache
+F:\EX1\bin\Debug\netcoreapp3.1\EX2.exe
+F:\EX1\bin\Debug\netcoreapp3.1\EX2.deps.json
+F:\EX1\bin\Debug\netcoreapp3.1\EX2.runtimeconfig.json
+F:\EX1\bin\Debug\netcoreapp3.1\EX2.runtimeconfig.dev.json
+F:\EX1\bin\Debug\netcoreapp3.1\EX2.dll
+F:\EX1\bin\Debug\netcoreapp3.1\EX2.pdb
+F:\EX1\obj\Debug\netcoreapp3.1\EX2.csprojAssemblyReference.cache
+F:\EX1\obj\Debug\netcoreapp3.1\EX2.AssemblyInfoInputs.cache
+F:\EX1\obj\Debug\netcoreapp3.1\EX2.AssemblyInfo.cs
+F:\EX1\obj\Debug\netcoreapp3.1\EX2.csproj.CoreCompileInputs.cache
+F:\EX1\obj\Debug\netcoreapp3.1\EX2.dll
+F:\EX1\obj\Debug\netcoreapp3.1\EX2.pdb
+F:\EX1\obj\Debug\netcoreapp3.1\EX2.genruntimeconfig.cache
